@@ -22,6 +22,14 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
   },
   
+  {
+      "name": "stream-link",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://www.stream-link.org/stream-link.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },  
 
   {
       "name":"主播live",
