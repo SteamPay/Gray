@@ -97,7 +97,7 @@
 { "key": "泥巴", "name": "泥巴资源🍌", "type": 3, "api": "csp_NiNi", "searchable": 1, "filterable": 1, "changeable": 0, "ext":"1$$$proxy"},
 
 {"key":"稀饭","name":"稀饭动漫🍛","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar": "./jar/YSZYZ.jar;md5;C6C0527F9A28AEDE231CCF50EF4FE898"},
-{"key": "次元","name": "次元动漫💌","type": 3,"api": "csp_Wexciyuancheng","searchable": 1,"changeable": 1,"jar": "./jar/XS.jar;md5;DFA413850C16DDD79D05C62F23CBD35E"},
+{"key": "次元","name": "次元动漫💌","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./js/次元城.js"},
 {"key": "巴士","name": "巴士动漫🐣","type": 3,"api": "csp_Dm84","searchable": 1,"changeable": 0},
 //{"key": "櫻花","name": "櫻花动漫🌸","type": 3,"api": "csp_Ying","searchable": 1,"changeable": 0},
 
