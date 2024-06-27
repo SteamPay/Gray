@@ -101,11 +101,11 @@
   
   
 
-{"key":"YingSo","name":"影搜引擎🐝","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
+//{"key":"YingSo","name":"影搜引擎🐝","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
 {"key":"混合盘","name":"聚合引擎🐝","type":3,"api":"csp_HunHePan","timeout":60, "ext":"./lib/tokenm.json","style": {"type": "list","ratio": 1.1}},
 {"key":"DaPanSo","name":"聚盘引擎🐝","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://dapanso.com$$$noproxy$$$1"},
 {"key":"88Pan","name":"八八引擎🐝","type":3,"api":"csp_EightEight","timeout":60, "ext":"./lib/tokenm.json$$$https://662688.xyz$$$","style": {"type": "list","ratio": 1.1}},
-//{"key":"盘友圈","name":"盘友引擎🐝","type":3,"api":"csp_Panyq","timeout":60,"ext":"./lib/tokenm.json$$$site$$$noproxy"},
+{"key":"盘友圈","name":"盘友引擎🐝","type":3,"api":"csp_Panyq","timeout":60,"ext":"./lib/tokenm.json$$$site$$$noproxy"},
 {"key":"PikaSo","name":"皮卡引擎🐝","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style": {"type": "list","ratio": 1.1}},
 {"key":"秒搜","name":"秒搜引擎🐝","type":3,"api":"csp_MiaoSou","timeout":60, "ext":"./lib/tokenm.json","style": {"type": "list","ratio": 1.1}},
 
