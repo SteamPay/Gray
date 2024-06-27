@@ -1,0 +1,136 @@
+轮播影院,#genre#
+邵氏影院,https://www.goodiptv.club/douyu/4246519
+漫威影院,https://www.goodiptv.club/douyu/6140589
+港剧影院,https://www.goodiptv.club/douyu/4549169
+杜比影院,https://www.goodiptv.club/douyu/9249162
+奶虫影院,https://www.goodiptv.club/douyu/263824
+小优影院,https://www.goodiptv.club/douyu/96577
+怡寶影院,https://www.goodiptv.club/douyu/434971
+冰冰影院,https://www.goodiptv.club/douyu/74374
+贝贝影院,https://www.goodiptv.club/douyu/431460
+凌儿影院,https://www.goodiptv.club/douyu/1377142
+伊太影院,https://www.goodiptv.club/douyu/747764
+栗子影院,https://www.goodiptv.club/douyu/7254536
+小宇影院,https://www.goodiptv.club/douyu/323876
+小鬼影院,https://www.goodiptv.club/douyu/3928
+怀旧影院,https://www.goodiptv.club/douyu/7119207
+网神影院,https://www.goodiptv.club/douyu/508118
+七喜影院,https://www.goodiptv.club/huya/11342421
+虎牙影院,https://www.goodiptv.club/huya/11601968
+無綫影院,https://www.goodiptv.club/huya/23735126
+埋堆堆影院,https://www.goodiptv.club/huya/23740156
+周星驰影院,https://www.goodiptv.club/huya/11342412
+
+休闲娱乐,#genre#
+星秀音悦台,https://www.goodiptv.club/huya/880201
+星秀劲舞团,https://www.goodiptv.club/huya/880351
+陈翔六点半,https://www.goodiptv.club/huya/11274154
+脱口秀大会,https://www.goodiptv.club/huya/11352875
+快乐吐槽大会,https://www.goodiptv.club/huya/21059555
+德爷单挑荒野,https://lunbo.freetv.top/yy/27772604
+德爷单挑荒野,https://lunbo.freetv.top/yy/36949900
+
+电影解说,#genre#
+来呀官人,https://www.goodiptv.club/douyu/9986305
+开心嘴炮,https://www.goodiptv.club/douyu/9026377
+牛叔说电影,https://www.goodiptv.club/douyu/2758565
+迷小雅解说,https://www.goodiptv.club/douyu/9639225
+老王忆经典,https://www.goodiptv.club/douyu/9687733
+代娱说美剧,https://www.goodiptv.club/douyu/9123570
+
+
+油管直播,#genre#
+泳装周秀, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=I8ZIX6r0xXI
+自然风景, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Tq117lqpr-A
+音乐生活, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=36YnV9STBqc
+动物世界, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=BJ3Yv572V1A
+鳳凰衛視, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HFib76ySpbU
+鳳凰資訊, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=a3WZVssKlAI
+寰宇新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=B7Zp3d6xXWw
+鏡新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+中天新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/live/oIgbl7t0S_w?feature=share
+中天新聞+, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+三立live, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立inews, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立NEWS+, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+TVBS新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS NEWS LIVE, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+民視新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+華視新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xL0ch83RAK8
+EBC東森財經, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+三立財經, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+NHK WORLD, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
+NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+Euronews English, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=pykpO5kQJ98
+ANN News, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=coYw-eVU0Ks
+KBS KOREA, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HnfpTMtfFk8
+东森财经股市, http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=LbS-xQ67fos
+
+测试直播,#genre#
+春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+西游齐天乐1987,http://50069.njc.svp.tencent-cloud.com/0bc3fuaaiaaavuaibgr5f5rfalodaqwqabaa.f10003.mp4
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4 
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4 
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8 
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
+春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+
+
+
+
+
+
+
+
+
+私密頻道_8888,#genre#
+
+
+
+
+
+
+
+
+
