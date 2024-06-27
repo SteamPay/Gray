@@ -1,6 +1,7 @@
 //表情网址：https://www.emojiall.com/zh-hans  https://emoji6.com/emojiall/
 //解密网址：http://lige.unaux.com/?url=
 //github加速：https://ghproxy.net/
+//github加速：https://github.moeyy.xyz/
 
 {"spider": "./pg.jar",
 
@@ -115,6 +116,8 @@
 {"key":"PikaSo","name":"皮卡引擎🐝","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style": {"type": "list","ratio": 1.1}},
 {"key":"秒搜","name":"秒搜引擎🐝","type":3,"api":"csp_MiaoSou","timeout":60, "ext":"./lib/tokenm.json","style": {"type": "list","ratio": 1.1}},
 
+
+
   
 //{"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "timeout":60,"style":{ "type":"rect", "ratio":1.33 },"ext":"./lib/tokenm.json$$$null$$$proxy"},
   
@@ -141,6 +144,8 @@
 //{"key":"Cable","name":"Cable","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"proxy","style": {"type": "rect","ratio": 1.5}},
 
 
+
+  
 //{"key": "Iktv","name": "爱唱麦霸🎤","type": 3,"api": "csp_Iktv","searchable": 0,"changeable": 0},
 //{"key":"JustLive","name":"游戏直播🎮","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 
