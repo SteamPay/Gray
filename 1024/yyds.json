@@ -1,5 +1,6 @@
-{"urls":[{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/SteamPay/Gray/main/1024.json","name":"1024-PG","time":"主线路"},
-{"urls":[{"url":"https://3085.kstore.space/1024.json","name":"1024-PG备用","time":"副线路"},
+{"urls":[
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/SteamPay/Gray/main/1024.json","name":"1024-PG","time":"主线路"},
+{"url":"https://3085.kstore.space/1024.json","name":"1024-PG备用","time":"副线路"},
 {"url":"http://ok321.top/tv","name":"OK线路"},
 {"url":"https://tv1.lan2wan.top/candymuj.json","name":"CM线路"},
 {"url":"http://肥猫.live","name":"肥猫线路"},
