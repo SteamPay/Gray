@@ -1,13 +1,11 @@
 {"urls":[
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/SteamPay/Gray/main/1024.json","name":"1024-PG","time":"主线路"},
-{"url":"https://3085.kstore.space/1024.json","name":"1024-PG备用","time":"副线路"},
+{"url":"https://3085.kstore.space/1024.json","name":"1024-PG","time":"主线路"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/SteamPay/Gray/main/1024.json","name":"1024-PG备用","time":"副线路"},
 {"url":"http://ok321.top/tv","name":"OK线路"},
-{"url":"https://tv1.lan2wan.top/candymuj.json","name":"CM线路"},
-{"url":"http://肥猫.live","name":"肥猫线路"},
+{"url":"http://肥猫.com","name":"肥猫线路"},
 {"url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz","name":"王二线路"},
 {"url":"http://bp.tvbox.cam","name":"影视线路"},
 {"url":"https://pastebin.com/raw/5NHaxyGR","name":"道长线路"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"潇洒线路"},
 {"url":"http://www.饭太硬.com/tv","name":"饭太硬线路"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"香情雅线路"},
-{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/SteamPay/Gray/main/jsm.json","name":"临时测试备用线路"}]}
+{"url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json","name":"临时测试备用线路"}]}
