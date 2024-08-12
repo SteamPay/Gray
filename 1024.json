@@ -60,7 +60,7 @@
 {"key":"多多","name":"多多网盘🐳","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"土豆","name":"土豆网盘🔮","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"蜡笔","name":"蜡笔网盘🎨","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key": "Panta","name": "移动网盘☁️","type": 3,"api": "csp_Panta","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","style": {"type": "list","ratio": 1.1}},
+{"key":"他盘","name": "移动网盘☁️","type": 3,"api": "csp_Panta","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","style": {"type": "list","ratio": 1.1}},
 {"key":"南瓜","name":"南瓜弹幕🎃","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1"},
 {"key": "天天","name": "天天弹幕🍩","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
   
@@ -80,15 +80,12 @@
 
 
 {"key": "圣城","name": "酷云资源🍁","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./js/酷云.js"},
-{"key": "剧圈","name": "剧圈资源🎱","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./js/剧圈圈.js"},
-{"key": "金曼","name": "金曼资源🍟","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./js/金曼.js"},
 
 {"key":"官采","name":"官采解析💿","type":1,"api":"https://vipcj.timizy.com/api.php/provide/vod","categories":["国产剧","港台剧","日韩剧","欧美剧","电影","连续剧","综艺","动漫","其他剧","资讯","儿童","公告","头条"]},
 
 {"key":"欧乐","name":"欧乐资源🍌","type":3,"api":"csp_Olevod", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 
 {"key":"稀饭","name":"稀饭动漫🍛","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar": "./jar/YSZYZ.jar;md5;C6C0527F9A28AEDE231CCF50EF4FE898"},
-{"key": "次元","name": "次元动漫💌","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./js/次元城.js"},
 {"key": "巴士","name": "巴士动漫🐣","type": 3,"api": "csp_Dm84","searchable": 1,"changeable": 0},
 {"key": "櫻花","name": "櫻花动漫🌸","type": 3,"api": "csp_Ying","searchable": 1,"changeable": 0},
 
