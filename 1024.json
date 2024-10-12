@@ -76,11 +76,11 @@
  
 
 {"key":"文才","name":"文才资源🍒","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-"timeout":10,"jar": "./jar/okjpg.txt;md5;7b4cb3b221cd2a9b864a5ab40deb41df"},
+"timeout":10,"jar": "./jar/okjpg.txt"},
 {"key":"苹果","name":"苹果资源🍏","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-"timeout":10,"jar": "./jar/okjpg.txt;md5;7b4cb3b221cd2a9b864a5ab40deb41df"},
+"timeout":10,"jar": "./jar/okjpg.txt"},
 {"key":"厂长","name":"厂长资源🎉","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-"timeout":10,"jar": "./jar/okjpg.txt;md5;7b4cb3b221cd2a9b864a5ab40deb41df"},
+"timeout":10,"jar": "./jar/okjpg.txt"},
 
 
 {"key": "巴士","name": "巴士动漫🐣","type": 3,"api": "csp_Dm84","searchable": 1,"changeable": 0},
